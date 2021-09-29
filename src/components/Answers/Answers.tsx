@@ -56,7 +56,7 @@ const Answers: React.FC<IAnswerProps> = ({ currentCountry, questions, guess }) =
       }
 
     }else {
-      setAnswer(`Incorrect- ${currentCountry.name.common} does not have neighboors`)
+      setAnswer(`Correct! ${currentCountry.name.common} does not have neighboors`)
     }
     
   }
