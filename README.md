@@ -35,7 +35,7 @@ It is an interactive application that allows users to explore the world's countr
  + They're able to return to the home page by clicking the `What in the World` text or `Take me home` button and select another country to continue learning!
   <br>
  
- Or visit our [deployed link](https://what-in-the-world-stretch.herokuapp.com/)
+ Or visit our [deployed link](https://wwhat-in-the-world.herokuapp.com/)
 
 ## Learning goals
   + Learning and implementing unfamiliar technology, outside of our [Turing School of Software and Design](turing.edu) curriculum.
